@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Eduardo Alexandre, a Passionate Developer and Lifelong Learner 🚀
 
 <!--
 **eduardoswebr/eduardoswebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
